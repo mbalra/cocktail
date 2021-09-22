@@ -1,0 +1,64 @@
+*{
+    font-family: 'Merriweather', serif;
+}
+
+.hero{
+ background:url("../media/t66.png") no-repeat center/cover ;
+     min-height: 500px;
+
+}
+  
+
+.boton{
+    background: linear-gradient(180deg, #BBBBBB 0%, #F8F8F8 52.78%, #BBBBBB 100%);
+    border: none;
+    
+}
+
+main{
+    background:url("../media/pizarron1.jpg") no-repeat center/cover;
+}
+
+h1{
+    color:white;
+    font-weight: 600;
+    letter-spacing:.1em
+}
+
+footer{
+    width: 100%;
+}
+
+.frase{
+    background: rgb(41, 40, 40);
+    color:white;
+    border: 1px solid white;
+    margin: 5em 0;
+}
+
+.tarjetas{
+    padding: 2em 0 0 0;
+}
+
+.barman{
+    padding: 1em;
+}
+
+.bg{ padding: 2em;
+
+}
+
+footer,
+header{
+    color: white;
+  
+}
+
+
+header{
+    background:rgb(112, 40, 40) ;
+}
+
+.box{
+    background:#3b4444;
+}
