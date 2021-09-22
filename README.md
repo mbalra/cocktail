@@ -1,4 +1,4 @@
-COCTAIL ATAHUALPA
+COCKTAIL ATAHUALPA
 Proyecto realizado para barman especializado en cockteles.
 
 Construido con: 🔧
